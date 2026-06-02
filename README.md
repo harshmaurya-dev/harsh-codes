@@ -1,2 +1,2 @@
 # harsh-codes
-This is my first Git Repository.Learning, building, and growing documenting my coding journey through projects and practice.
+This is my first Git repository. Learning, building, and growing while documenting my coding journey through projects and practice.
